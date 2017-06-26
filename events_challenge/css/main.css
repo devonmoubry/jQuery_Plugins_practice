@@ -342,27 +342,11 @@ footer {
   background-color: white;
   transition: 1s;
 }
+
 .is-sticky .header {
   background-color: black;
 }
 
-.is-sticky header a {
-  
+.is-sticky .work {
+  background-color: white;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
